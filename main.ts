@@ -1,8 +1,8 @@
-/* Copyright (c) 2023 MTHS All rights reserved
+/* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Kyle Lyver
- * Created on: Sep 2023
- * This program displays 'Hello, Kyle'
+ * Created by: Mr. Coxall
+ * Created on: Sep 2020
+ * This program ...
 */
 
-basic.showString('Hello, Kyle!')
+basic.showString('Hello, World!')
