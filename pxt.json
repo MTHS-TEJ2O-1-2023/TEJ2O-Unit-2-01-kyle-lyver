@@ -11,7 +11,7 @@
         "README.md"
     ],
     "targetVersions": {
-        "target": "6.0.17",
+        "target": "6.0.18",
         "targetId": "microbit"
     },
     "supportedTargets": [
